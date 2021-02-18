@@ -7,6 +7,6 @@ So how token economics work?
 
 It works based on a simple economics of supply and demand.
 Supply of tokens come from content creations and the amount will keep increasing by time.
-Demand will come from other individuals/parties that want to interact with the creator community.
+Demand will come from other individuals/parties who want to interact with the creator community.
 The contact between creators or third parties will be based on blockchain mail that requests BMTokens.
 Or subscription to specific creators will require BMTokens.
